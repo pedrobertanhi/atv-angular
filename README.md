@@ -7,7 +7,7 @@ Um projeto simples em TypeScript para a faculdade.
 Para compilar e executar o código, use o comando:
 
 ```sh
-npx ts-node src/tigre.ts
+npx ts-node src/ouma.ts
 ```
 
 ## Tecnologias
